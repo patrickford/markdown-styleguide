@@ -14,8 +14,8 @@ The above header is a large one. It's preceded by two pound signs. Large titles 
 ### This is a small title
 Use small titles for new sections.
 
-*Italics are added by using two asterisks before and after it.*
-**Bold text is created by using an asterisk before and after it.**
+*Italics are created by adding one asterisks before and after some text.*
+**Bold text is created by ading two asterisks before and after it.**
 
 ### Code
 

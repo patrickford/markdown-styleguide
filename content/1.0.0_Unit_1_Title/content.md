@@ -29,8 +29,11 @@ Then write some code. Highlighting will be applied automatically.
 To end it, use three slanted single quotes.
 ```
 
+### Links
+Create a link like so: ``[Text that will appear](http://url.com)``
+
 ### Images
-Images must be included in the same directory, and then can be linked like this: ``![Photoshop_reseting-workspace.png](Photoshop_reseting-workspace.png)``
+Images must be included in the same directory, and then can be linked like this: ``![Description of Photo](Photoshop_reseting-workspace.png)``
 
 ### Codepen
 To embed a Codepen, insert: ``<codepen source="BcHqe"></codepen>`` where the source attribute is equal to the string at the end of the URL after you save.

@@ -29,6 +29,9 @@ Then write some code. Highlighting will be applied automatically.
 To end it, use three slanted single quotes.
 ```
 
+### Notes
+You can set aside sections of text in a box labeled "Note" by adding ``######`` in front of text.
+
 ### Links
 Create a link like so: ``[Text that will appear](http://url.com)``
 
